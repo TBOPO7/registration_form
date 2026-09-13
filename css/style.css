@@ -1,0 +1,64 @@
+label {
+    display: block
+}
+
+#confirmlabel {
+    display: inline
+}
+
+#namecont {
+    display: inline-block;
+}
+
+#snamecont {
+    display: inline-block;
+}
+
+#mailcont {
+    display: block
+}
+
+#passwordcont {
+    display: inline-block
+}
+
+#pccont {
+    display: inline-block
+}
+
+#confirmcont {
+    display: block
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    height: 30px;
+}
+
+input[type="mail"] {
+    width: 100%;
+}
+
+.card {
+    alignment: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 400px;
+    margin: 40px auto;
+    padding: 40px 48px;
+    background-color: #ffffff;
+
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+button {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: #ffffff;
+    border-radius: 15px;
+}
